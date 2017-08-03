@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P1-Popular-Movies-Stage1</string>
+    <string name="title_activity_detail">Movie Details</string>
+    <string name="action_sort_by">View my</string>
+    <string name="action_sort_by_popularity">Most Popular movies</string>
+    <string name="action_sort_by_rating">Top rate movies</string>
+</resources>
